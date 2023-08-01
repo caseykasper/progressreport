@@ -1,0 +1,18 @@
+body {
+    background: darksalmon;
+}
+
+#report {
+    display: flexbox;
+    height: 500px;
+    width: 700px;
+    background-color: white;
+}
+
+checkbox {
+    margin: 3px;
+}
+
+p {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
